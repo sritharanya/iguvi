@@ -1,0 +1,12 @@
+.h{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:blue;
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }

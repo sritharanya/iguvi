@@ -1,0 +1,1 @@
+CREATE TABLE `iguvi`.`tab` (`user` VARCHAR(30) NOT NULL , `pwd` VARCHAR(8) NOT NULL , UNIQUE `user` (`user`(30))) ENGINE = InnoDB;
